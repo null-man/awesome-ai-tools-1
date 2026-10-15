@@ -1565,6 +1565,7 @@ This list highlights a selection of image generation tools, featuring advanced A
 
 - [Stable Diffusion](https://stablediffusion.com) - AI model for stable and high-quality image generation.
 - [MidJourney](https://midjourney.com) - Advanced tool for AI-driven artistic image creation.
+- [PromptImage](https://promptimage.cloud) - Free AI image and video studio with a prompt library, multi-model generation, and signup credits (no card required).
 - [DALL-E 3](https://openai.com/dall-e-3) - Latest iteration of OpenAI's powerful image generation model.
 - [CivitAI](https://civitai.com/models) - Platform offering various AI models including image generators. Works very well with midjourney
 - [DeepArt](https://deepart.io) - Turns your photos into artworks using AI.
@@ -1663,6 +1664,8 @@ This list includes a range of tools for AI-powered video generation, offering ca
     - Many public “Seedance” sites are wrappers, not official endpoints
 
 - [Sora](https://www.sora.com) - AI video generation platform from OpenAI. RIP
+- [PromptImage](https://promptimage.cloud) - Free AI image and video studio with a prompt library, multi-model generation, and signup credits (no card required).
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent AI text/image-to-video generator with a free trial (not affiliated with xAI or X).
 - [Synthesia](https://www.synthesia.io) - AI video generation platform.
 - [RunwayML](https://runwayml.com) - AI toolkit for artists and creators.
 - [Deep Video Portraits](https://www.graphics.stanford.edu/projects/deepvideo) - AI-driven facial reenactment in videos.
