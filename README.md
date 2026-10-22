@@ -1702,6 +1702,9 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Shortodella](https://shortodella.com) - AI graphics platform with a canvas editor for image generation, video creation, chat-based editing, and background removal. Free tier available.
 - [HeyVid](https://heyvid.ai) - All-in-one AI video and image generator.
 - [UGCFast](https://ugcfast.ai) - AI UGC video ad generator with 300+ AI actors and 35+ languages, built for performance marketers shipping TikTok, Reels, and Meta ads.
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Paid, independent tool that turns two portrait photos into a 13-second two-person AI studio dance video (unofficial; no original song included).
+- [Bad Times AI](https://badtimesai.dev) - Paid, independent tool that turns one portrait, group or pet photo into a short AI-generated dance effect video with five templates.
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Paid, independent tool that turns two portrait photos into a short AI-generated encounter effect video (balcony, spotlight, eyes meet).
 
 ---
 
