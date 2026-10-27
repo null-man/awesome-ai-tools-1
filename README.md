@@ -1708,6 +1708,9 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Paid, independent unofficial tool that turns one photo into a 13-second 480p 21:9 solo AI dance video (not affiliated with Riot Games or K/DA).
 - [A2O LITE NEON AI Dance](https://a2oliteai.org) - Paid, independent tool that turns two photos into a 15-second 480p 16:9 duo AI dance video with reference soundtrack.
 - [dime dime baby ai](https://dimedimebabyai.dev) - Paid, independent tool that turns one photo into a ~5-second 480p 9:16 AI dance video (Quince Classic or Party Groove) with generated music.
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credits. Freemium
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official xAI or X product
 
 ---
 
