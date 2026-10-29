@@ -1666,6 +1666,9 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Sora](https://www.sora.com) - AI video generation platform from OpenAI. RIP
 - [PromptImage](https://promptimage.cloud) - Free AI image and video studio with a prompt library, multi-model generation, and signup credits (no card required).
 - [GrokVideo Studio](https://grokvideogenerator.dev) - Independent AI text/image-to-video generator with a free trial (not affiliated with xAI or X).
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 - [Synthesia](https://www.synthesia.io) - AI video generation platform.
 - [RunwayML](https://runwayml.com) - AI toolkit for artists and creators.
 - [Deep Video Portraits](https://www.graphics.stanford.edu/projects/deepvideo) - AI-driven facial reenactment in videos.
